@@ -232,3 +232,4 @@ const Keyboard = {
 window.addEventListener("DOMContentLoaded", function () {
   Keyboard.init();
 });
+console.log("we done!");
